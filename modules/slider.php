@@ -40,7 +40,7 @@ if ( $items ) {
 				esc_html__( 'Habakiri have slider feature !', 'habakiri' ),
 				esc_html__( 'This is sample slider. You can setting slider in Customizer.', 'habakiri' ),
 				esc_html__( 'The set sliders are displayed in Rich Front Page template.', 'habakiri' ),
-				admin_url( 'customizer.php' )
+				admin_url( 'customize.php' )
 			),
 		),
 		array(
